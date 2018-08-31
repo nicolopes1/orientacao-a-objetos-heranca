@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-13-orientacao-a-objetos-heranca\aula-13-orientacao-a-objetos-heranca\obj\Debug\aula-13-orientacao-a-objetos-heranca.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-13-orientacao-a-objetos-heranca\aula-13-orientacao-a-objetos-heranca\obj\Debug\aula-13-orientacao-a-objetos-heranca.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-13-orientacao-a-objetos-heranca\aula-13-orientacao-a-objetos-heranca\bin\Debug\aula-13-orientacao-a-objetos-heranca.exe.config
+C:\Users\nicol\source\repos\aula-13-orientacao-a-objetos-heranca\aula-13-orientacao-a-objetos-heranca\bin\Debug\aula-13-orientacao-a-objetos-heranca.exe
+C:\Users\nicol\source\repos\aula-13-orientacao-a-objetos-heranca\aula-13-orientacao-a-objetos-heranca\bin\Debug\aula-13-orientacao-a-objetos-heranca.pdb
+C:\Users\nicol\source\repos\aula-13-orientacao-a-objetos-heranca\aula-13-orientacao-a-objetos-heranca\obj\Debug\aula-13-orientacao-a-objetos-heranca.exe
+C:\Users\nicol\source\repos\aula-13-orientacao-a-objetos-heranca\aula-13-orientacao-a-objetos-heranca\obj\Debug\aula-13-orientacao-a-objetos-heranca.pdb
